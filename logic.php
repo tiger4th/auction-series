@@ -1,3 +1,4 @@
+<?php http_response_code(404); ?>
 <?php
 $vcurl = 'http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3146778&pid=883039550&vc_url=';
 
